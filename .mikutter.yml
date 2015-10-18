@@ -1,0 +1,9 @@
+---
+slug: :mikutter-notifier-osx
+depends:
+  mikutter: 3.2
+  plugin: []
+version: '0.0.1'
+author: 
+name: mikutter-notifier-osx
+description: "Mac OS Xで通知ポップアップとサウンドを使えるようにします。"
